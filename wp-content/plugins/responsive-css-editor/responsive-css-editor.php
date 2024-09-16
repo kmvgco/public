@@ -2,8 +2,8 @@
 /*
 Plugin Name: Responsive CSS Editor
 Description: A CSS editor for Desktop, Tablet, and Mobile views.
-Version: 1.0
-Author: Tyler Thomas (SolutionBuilt)
+Version: 1.0-alpha
+Author: Tyler Thomas
 */
 
 // Exit if accessed directly.
